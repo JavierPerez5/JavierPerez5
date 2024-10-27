@@ -19,7 +19,7 @@ y Fisioterapeuta por la [Universidad de Murcia](https://www.um.es/). Me encanta 
  
 ### ⌛ Estoy interesado en aprender sobre lenguajes de marcas y entornos de desarrollo como:
 - **JavaScript**
-- **C++**
+- **C++** ![C+](C:\Users\lalo_\Desktop\logos-md\logo-c++.png)
 - **Python**
 	
 
