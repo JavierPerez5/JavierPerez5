@@ -1,12 +1,13 @@
 # 👋 **Hola** # 
 
 ## Sobre mí ##
+
 Hola, soy Javier Pérez Hernández, estudiante de Desarrollo de Aplicaciones Web en [Centro Integral de Formación Profesional a distancia " La Conservera"](https://www.ieslosalbares.es/laconservera/) en la región de Murcia
 y Fisioterapeuta por la [Universidad de Murcia](https://www.um.es/). Me encanta el deporte, los videojuegos y por la informática.
 
 ---
-###
- - 📗 Actualmente estoy matriculado en:
+
+ ### 📗 Actualmente estoy matriculado en:
  	- [Entornos de desarrollo](https://ead.murciaeduca.es/course/view.php?id=11658)
  	- [Lenguajes de marcas](https://ead.murciaeduca.es/course/view.php?id=11625)
  	- [Programación](https://ead.murciaeduca.es/course/view.php?id=11657)
@@ -16,18 +17,23 @@ y Fisioterapeuta por la [Universidad de Murcia](https://www.um.es/). Me encanta 
  	- [Digitalización Aplicada al Sistema Productivo](https://ead.murciaeduca.es/course/view.php?id=11777)
  	- [Inglés profesional](https://ead.murciaeduca.es/course/view.php?id=11502)
  
- - ⌛ Estoy interesado en aprender sobre lenguajes de marcas y entornos de desarrollo como:
+ ### ⌛ Estoy interesado en aprender sobre lenguajes de marcas y entornos de desarrollo como:
 
-	- **Visual Studio Code**
-	- **Java**
-	- **Kotlin**
-	- **CSS**
-	- **HTML**
- ---	
-- 💻 En el curso actual voy a aprender a usar distintos frameworks:
+	| **Visual Studio Code**    | **Java**       | **Kotlin**   |
+ 	
+### 💻 En el curso actual voy a aprender a usar distintos frameworks:
 
-	- **Node.js** [Logo de Node.js](https://es.m.wikipedia.org/wiki/Archivo:Node.js_logo.svg)
+	- **Node.js** 
 	- **Angular**
 	- **Django**
 	- **Flask**
+ 
+### También usaremos distintas bases de datos como:
+
+	- **Oracle**
+	- **Docker**
+	- **MySqL**
+	- **MongoDB**
+
+### 📊 Me gustaría trabajar como programador Full-Stack o en su defecto como Frontend.
 	
