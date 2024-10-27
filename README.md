@@ -19,7 +19,7 @@ y Fisioterapeuta por la [Universidad de Murcia](https://www.um.es/). Me encanta 
  
 ### ⌛ Estoy interesado en aprender sobre lenguajes de marcas y entornos de desarrollo como:
 - **JavaScript**
-- **C++** ![C+](https://imgur.com/a/j13VrQG)
+- **C++** 
 - **Python**
 	
 
@@ -41,4 +41,5 @@ y Fisioterapeuta por la [Universidad de Murcia](https://www.um.es/). Me encanta 
 ---
 
 #### 📧 **4399530@alu.murciaeduca.es**
+
      
