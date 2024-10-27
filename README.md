@@ -1,4 +1,3 @@
-
 # 👋 **Hola** # 
 
 ## Sobre mí ##
@@ -29,15 +28,9 @@ y Fisioterapeuta por la [Universidad de Murcia](https://www.um.es/). Me encanta 
 |-------------------------------|---------------------|
 | **Node.js**                   | **Oracle**	      |	  
 | **Angular**		        | **Docker**	      |
-| **Django**			| **Mysql**          |
+| **Django**			| **Mysql**           |
 | **Flask**			| **MongoDB**         |
 
-### También usaremos distintas bases de datos como:
-
-- **Oracle**
-- **Docker**
-- **MySqL**
-- **MongoDB**
 
 ### 📊 Me gustaría trabajar como programador Full-Stack o en su defecto como Frontend.
 ---
