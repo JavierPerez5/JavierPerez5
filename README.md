@@ -20,7 +20,7 @@ y Fisioterapeuta por la [Universidad de Murcia](https://www.um.es/). Me encanta 
 ### ⌛ Estoy interesado en aprender sobre lenguajes de marcas y entornos de desarrollo como:
 - ![javascript](https://github.com/user-attachments/assets/02a892aa-51b0-41a9-8e20-58c68453e4d6)
 - ![logoc++](https://github.com/user-attachments/assets/f9e1b057-81da-488e-a4b1-00fae62dd404)
-- ![Python-logo-notext svg](https://github.com/user-attachments/assets/312ed1cd-9aa7-4cb4-8398-0609982e89da)
+- ![Python-logo-notext](https://github.com/user-attachments/assets/005d5fa9-5569-4a23-9f7d-d0117a688efe)
 	
 
  ### 💻 En el curso actual voy a aprender a usar distintos frameworks y bases de datos como:
