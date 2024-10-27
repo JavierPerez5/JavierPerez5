@@ -8,16 +8,16 @@ y Fisioterapeuta por la [Universidad de Murcia](https://www.um.es/). Me encanta 
 ---
 
  ### 📗 Actualmente estoy matriculado en:
- 	- [Entornos de desarrollo](https://ead.murciaeduca.es/course/view.php?id=11658)
- 	- [Lenguajes de marcas](https://ead.murciaeduca.es/course/view.php?id=11625)
- 	- [Programación](https://ead.murciaeduca.es/course/view.php?id=11657)
- 	- [Sistemas informáticos](https://ead.murciaeduca.es/course/view.php?id=11655)
- 	- [Bases de datos](https://ead.murciaeduca.es/course/view.php?id=11656)
- 	- [Itinerario personal para la empleabilidad](https://ead.murciaeduca.es/course/view.php?id=12025)
- 	- [Digitalización Aplicada al Sistema Productivo](https://ead.murciaeduca.es/course/view.php?id=11777)
- 	- [Inglés profesional](https://ead.murciaeduca.es/course/view.php?id=11502)
+ - [Entornos de desarrollo](https://ead.murciaeduca.es/course/view.php?id=11658)
+ - [Lenguajes de marcas](https://ead.murciaeduca.es/course/view.php?id=11625)
+ - [Programación](https://ead.murciaeduca.es/course/view.php?id=11657)
+ - [Sistemas informáticos](https://ead.murciaeduca.es/course/view.php?id=11655)
+ - [Bases de datos](https://ead.murciaeduca.es/course/view.php?id=11656)
+ - [Itinerario personal para la empleabilidad](https://ead.murciaeduca.es/course/view.php?id=12025)
+ - [Digitalización Aplicada al Sistema Productivo](https://ead.murciaeduca.es/course/view.php?id=11777)
+ - [Inglés profesional](https://ead.murciaeduca.es/course/view.php?id=11502)
  
- ### ⌛ Estoy interesado en aprender sobre lenguajes de marcas y entornos de desarrollo como:
+### ⌛ Estoy interesado en aprender sobre lenguajes de marcas y entornos de desarrollo como:
 - **JavaScript**
 - **C++**
 - **Python**
@@ -25,7 +25,20 @@ y Fisioterapeuta por la [Universidad de Murcia](https://www.um.es/). Me encanta 
 
  ### 💻 En el curso actual voy a aprender a usar distintos frameworks:
 
-	- **Node.js** 
+- **Node.js** 
+- **Angular**
+- **Django**
+- **Flask**
+ 
+### También usaremos distintas bases de datos como:
+
+- **Oracle**
+- **Docker**
+- **MySqL**
+- **MongoDB**
+
+### 📊 Me gustaría trabajar como programador Full-Stack o en su defecto como Frontend.
+	
 	- **Angular**
 	- **Django**
 	- **Flask**
