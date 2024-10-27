@@ -7,13 +7,13 @@ Hola, soy Javier Pérez Hernández, estudiante de Desarrollo de Aplicaciones Web
 ###
  - 🌱 Estoy intentando aprender markdown y html, espero aprender mucho y poder trabajar de esto.
  - 📗 Actualmente estoy matriculado en:
- * Entornos de desarrollo.
- * Lenguajes de marcas.
- * Programación.
- * Sistemas informáticos.
- * Bases de datos.
- * Itinerario personal para la empleabilidad.
- * Digitalización Aplicada al Sistema Productivo.
- * Inglés profesional.
+  * Entornos de desarrollo.
+  * Lenguajes de marcas.
+  * Programación.
+  * Sistemas informáticos.
+  * Bases de datos.
+  * Itinerario personal para la empleabilidad.
+  * Digitalización Aplicada al Sistema Productivo.
+  * Inglés profesional.
  
 
