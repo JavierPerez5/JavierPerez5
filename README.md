@@ -26,7 +26,7 @@ y Fisioterapeuta por la [Universidad de Murcia](https://www.um.es/). Me encanta 
  ---	
 - 💻 En el curso actual voy a aprender a usar distintos frameworks:
 
-	- **Node.js**
+	- **Node.js**[Logo de Node.js](https://es.m.wikipedia.org/wiki/Archivo:Node.js_logo.svg)
 	- **Angular**
 	- **Django**
 	- **Flask**
