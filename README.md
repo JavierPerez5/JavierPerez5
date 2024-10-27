@@ -17,7 +17,7 @@ y Fisioterapeuta por la [Universidad de Murcia](https://www.um.es/). Me encanta 
  	- [Digitalización Aplicada al Sistema Productivo](https://ead.murciaeduca.es/course/view.php?id=11777)
  	- [Inglés profesional](https://ead.murciaeduca.es/course/view.php?id=11502)
  
- ### ⌛ Estoy interesado en aprender sobre lenguajes de marcas y entornos de desarrollo como:
+  ### ⌛ Estoy interesado en aprender sobre lenguajes de marcas y entornos de desarrollo como:###
 	- **JavaScript**
 	- **C++**
 	- **Python**
