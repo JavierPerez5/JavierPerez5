@@ -36,7 +36,7 @@ y Fisioterapeuta por la [Universidad de Murcia](https://www.um.es/). Me encanta 
 ---
 
 #### 📧 **4399530@alu.murciaeduca.es**
-> “Si no se pierde, no se puede disfrutar de las victorias”  
+> “*Si no se pierde, no se puede disfrutar de las victorias*”  
 > — Rafael Nadal
 
 
