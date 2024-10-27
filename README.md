@@ -39,16 +39,3 @@ y Fisioterapeuta por la [Universidad de Murcia](https://www.um.es/). Me encanta 
 
 ### 📊 Me gustaría trabajar como programador Full-Stack o en su defecto como Frontend.
 	
-	- **Angular**
-	- **Django**
-	- **Flask**
- 
-### También usaremos distintas bases de datos como:
-
-	- **Oracle**
-	- **Docker**
-	- **MySqL**
-	- **MongoDB**
-
-### 📊 Me gustaría trabajar como programador Full-Stack o en su defecto como Frontend.
-	
