@@ -19,13 +19,24 @@ y Fisioterapeuta por la [Universidad de Murcia](https://www.um.es/). Me encanta 
  
  ### ⌛ Estoy interesado en aprender sobre lenguajes de marcas y entornos de desarrollo como:
 
-	| **Visual Studio Code**    | **Java**       | **Kotlin**   |
+	[![SQL](https://img.shields.io/badge/SQL-00758f?style=flat&logo=postgresql&logoColor=white)
  	
 ### 💻 En el curso actual voy a aprender a usar distintos frameworks:
 
 	- **Node.js** 
 	- **Angular**
 	- **Django**
+	- **Flask**
+ 
+### También usaremos distintas bases de datos como:
+
+	- **Oracle**
+	- **Docker**
+	- **MySqL**
+	- **MongoDB**
+
+### 📊 Me gustaría trabajar como programador Full-Stack o en su defecto como Frontend.
+	
 	- **Flask**
  
 ### También usaremos distintas bases de datos como:
