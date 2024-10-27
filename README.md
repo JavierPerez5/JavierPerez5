@@ -3,7 +3,7 @@
 ## Sobre mí ##
 
 Hola, soy Javier Pérez Hernández, estudiante de Desarrollo de Aplicaciones Web en [Centro Integral de Formación Profesional a distancia " La Conservera"](https://www.ieslosalbares.es/laconservera/) en la región de Murcia
-y Fisioterapeuta por la [Universidad de Murcia](https://www.um.es/). Me encanta el deporte, los videojuegos y por la informática.
+y Fisioterapeuta por la [Universidad de Murcia](https://www.um.es/). Me encanta el deporte, los videojuegos y la informática.
 
 ---
 
