@@ -38,4 +38,7 @@ y Fisioterapeuta por la [Universidad de Murcia](https://www.um.es/). Me encanta 
 - **MongoDB**
 
 ### 📊 Me gustaría trabajar como programador Full-Stack o en su defecto como Frontend.
-	
+---
+
+#### 📧 **4399530@alu.murciaeduca.es**
+     
