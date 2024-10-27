@@ -1,3 +1,4 @@
+
 # 👋 **Hola** # 
 
 ## Sobre mí ##
@@ -26,11 +27,10 @@ y Fisioterapeuta por la [Universidad de Murcia](https://www.um.es/). Me encanta 
  ### 💻 En el curso actual voy a aprender a usar distintos frameworks y bases de datos como:
 | **Framework**                 | **Bases de datos**  | 
 |-------------------------------|---------------------|
-
-- **Node.js** 			   **Oracle**			  
-- **Angular**			   **Docker**		
-- **Django**			   **Mysql**
-- **Flask**			   **MongoDB**
+| **Node.js**                   | **Oracle**	      |	  
+| **Angular**		        | **Docker**	      |
+| **Django**			| **Mysql**          |
+| **Flask**			| **MongoDB**         |
 
 ### También usaremos distintas bases de datos como:
 
