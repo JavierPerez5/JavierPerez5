@@ -1,12 +1,13 @@
-- 👋 Hi, I’m @JavierPerez5
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+# 👋 **Hola** # 
+
+## Sobre mí ##
+Hola, soy Javier Pérez Hernández, estudiante de Desarrollo de Aplicaciones Web y fisioterapeuta. Apasionado por el deporte, los videojuegos y por la informática.
+
+
+### 🌱 Estoy intentando aprender markdown y html, espero aprender mucho y poder trabajar de esto. ###
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<!---
-JavierPerez5/JavierPerez5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
