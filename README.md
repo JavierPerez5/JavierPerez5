@@ -33,7 +33,7 @@ y Fisioterapeuta por la [Universidad de Murcia](https://www.um.es/). Me encanta 
 
 ### 📊 Me gustaría trabajar como programador Full-Stack o en su defecto como Frontend.
 ---
-#### 📧 **4399530@alu.murciaeduca.es**
+#### 📧 [Correo electrónico](4399530@alu.murciaeduca.es)
 
 > “*Si no se pierde, no se puede disfrutar de las victorias*”  
 > — Rafael Nadal
